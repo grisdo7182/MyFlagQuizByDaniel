@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFlagQuiz</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="correct">Your answer is correct!</string>
+</resources>
